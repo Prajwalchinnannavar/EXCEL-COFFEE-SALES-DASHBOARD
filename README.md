@@ -1,3 +1,4 @@
+☕ Coffee Sales Dashboard (Built with Microsoft Excel)
 
 📌 Overview
 This project is a fully interactive Coffee Sales Dashboard built in Microsoft Excel. It transforms raw transactional data into a visually insightful summary for sales tracking, customer segmentation, and product performance analysis. This dashboard demonstrates the power of Excel in business intelligence and analytics use cases.
